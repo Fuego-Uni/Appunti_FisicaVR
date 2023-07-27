@@ -5,9 +5,9 @@ Un vettore ha 3 componenti:
 - Direzione
 - Verso
 
-![[intro/intro_images.md#^group=9mwb65ymMaGDmzlcbsplg]]
+![[intro_images#^group=9mwb65ymMaGDmzlcbsplg]]
 
-#versore : vettore di modulo 1, $\hat{v}$
+versore : vettore di modulo 1, $\hat{v}$
 
 ogni vettore è scomponibile in una somma di versori cartesiani (versori paralleli agli assi, generalmente $\hat{i}$ e $\hat{j}$):
 
@@ -24,7 +24,7 @@ $\vec{a} + \vec{b} = (a_x+b_x)\hat{i} + (a_y+b_y)\hat{j} = (a_x+b_x, a_y+b_y)$
 
 Operazione [[Vettori#^opint|Interna]]
 
-![[intro/intro_images.md#^group=uhPpC0A0lUu5zXsVIGkGx]]
+![[intro_images#^group=uhPpC0A0lUu5zXsVIGkGx]]
 
 
 ## Prodotto scalare (dot product)
@@ -39,16 +39,16 @@ Restituisce un valore che rappresenta quanto sono "paralleli" due vettori, il va
 
 $\vec{a} \cdot \vec{b} = ab \cos(\theta) = ab_a$
 (*$b_a$ è la proiezione di b su a*)
-![[intro/intro_images.md#^group=dj7B0MNq4V5fPlHKKeNcK]]
+![[intro_images#^group=dj7B0MNq4V5fPlHKKeNcK]]
 
 #### casi particolari:
 
 - $\vec{a} \parallel \vec{b} \Rightarrow \vec{a} \cdot \vec{b} = ab$
-![[intro/intro_images.md#^group=iLZtxWdC]]
+![[intro_images#^group=iLZtxWdC]]
 
 
 - $\vec{a} \perp \vec{b} \Rightarrow \vec{a} \cdot \vec{b} = 0$
-![[intro/intro_images.md#^group=jgHjV6Rt]]
+![[intro_images#^group=jgHjV6Rt]]
 
 ## Prodotto vettoriale
 
@@ -57,10 +57,10 @@ Operazione [[Vettori#^opint|Interna]]
 Per calcolare le componenti del vettore risultante:
 
 - **Direzione**: è perpendicolare ai vettori moltiplicati
-![[intro/intro_images.md#^group=JVevsOfvQkfpbhjsCRVFo]]
+![[intro_images#^group=JVevsOfvQkfpbhjsCRVFo]]
 
 - **Verso**: regola della mano destra, l'ordine dei moltiplicandi è importante: $\hat{a} \times \hat{b} = -(\hat{b} \times \hat{a})$
-![[intro/intro_images.md#^group=1cmhBxBEQfxdGvXykASWo]]
+![[intro_images#^group=1cmhBxBEQfxdGvXykASWo]]
 
 - **Modulo**: $ab\sin(a)$
 

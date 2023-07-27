@@ -3,6 +3,7 @@
   "dataview",
   "cm-editor-syntax-highlight-obsidian",
   "obsidian-excalidraw-plugin",
-  "obsidian-git",
-  "obsidian-math-plus"
+  "obsidian-math-plus",
+  "obsidian-admonition",
+  "obsidian-completr"
 ]

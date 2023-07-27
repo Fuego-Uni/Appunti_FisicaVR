@@ -1,0 +1,38 @@
+{
+  "userAdmonitions": {
+    "formula": {
+      "type": "formula",
+      "color": "212, 0, 255",
+      "icon": {
+        "type": "obsidian",
+        "name": "formula"
+      },
+      "command": true,
+      "title": "Formula",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": true
+    }
+  },
+  "syntaxHighlight": false,
+  "copyButton": false,
+  "version": "9.3.3",
+  "autoCollapse": false,
+  "defaultCollapseType": "open",
+  "injectColor": true,
+  "parseTitles": true,
+  "dropShadow": true,
+  "hideEmpty": false,
+  "open": {
+    "admonitions": true,
+    "icons": true,
+    "other": true,
+    "advanced": false
+  },
+  "icons": [],
+  "useFontAwesome": true,
+  "rpgDownloadedOnce": false,
+  "msDocConverted": false,
+  "useSnippet": false,
+  "snippetPath": "custom-admonitions.906ac0"
+}

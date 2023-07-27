@@ -1,14 +1,14 @@
 # Grandezze fisiche:
 
-| #dimensionale | #adimensionale |
+| dimensionale | adimensionale |
 |--|--|
 | necessitano di unità di misura (*es: lunghezza, tempo, massa, ...*) | numeri puri (*es: radianti*) |
 
-| #fondamentale  | #derivata |
+| fondamentale  | derivata |
 |--|--|
 | *es: massa, tempo, ...* | unione di unità fondamentali (*es: velocità, forza, ...*) |
 
-| #scalare | #vettoriale  |
+| scalare | vettoriale  |
 |--|--|
 | descritte interamente da un valore | descritte da valore, direzione e verso |
 
@@ -46,7 +46,7 @@ Verificare che la formula $x = x_0 + vt$ (moto lineare) sia dimensionalmente con
 0.01370 = 4 cifre significative, 5 cifre decimali, l'ultimo 0 è incerto
 
 ### Moltiplicazione
-Moltiplicando/dividendo **arrotondo** il risultato in modo da avere tante cifre **significative** quante quelle della misura più incerta_
+Moltiplicando/dividendo **arrotondo** il risultato in modo da avere tante cifre **significative** quante quelle della misura più incerta
 
 $21.26\ (4\ c.s.) / 8.5\ (2\ c.s.) = 2.501176... = 2.5\ (2\ c.s.)$
 

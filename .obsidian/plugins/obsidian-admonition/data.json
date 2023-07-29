@@ -12,6 +12,29 @@
       "injectColor": true,
       "noTitle": false,
       "copy": true
+    },
+    "definizione": {
+      "type": "definizione",
+      "color": "32, 207, 44",
+      "icon": {
+        "name": "book",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "definizione",
+      "injectColor": true,
+      "noTitle": false
+    },
+    "costante": {
+      "type": "costante",
+      "color": "0, 255, 213",
+      "icon": {
+        "name": "apple-alt",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "injectColor": true,
+      "noTitle": false
     }
   },
   "syntaxHighlight": false,

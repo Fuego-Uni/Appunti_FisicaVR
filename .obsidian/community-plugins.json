@@ -1,9 +1,11 @@
 [
+  "obsidian-admonition",
   "table-editor-obsidian",
+  "obsidian-completr",
   "dataview",
   "cm-editor-syntax-highlight-obsidian",
   "obsidian-excalidraw-plugin",
-  "obsidian-math-plus",
-  "obsidian-admonition",
-  "obsidian-completr"
+  "quick-latex",
+  "obsidian-pandoc",
+  "obsidian-math-plus"
 ]

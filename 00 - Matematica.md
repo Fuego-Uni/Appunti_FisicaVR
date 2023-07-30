@@ -4,3 +4,6 @@
 > [!formula]  **identità del doppio seno (double sine identity)**
 > $\large \sin2\theta = 2\sin\theta\cos\theta$
 
+> [!formula] tan/cotan
+> $\large \dfrac{\sin a}{\cos a} = \tan a \ \ \ \dfrac{\cos a}{\sin a} = \cot a$
+

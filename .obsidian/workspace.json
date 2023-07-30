@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0d613eead6575eea",
+        "id": "e68b9900936510bc",
         "type": "tabs",
         "children": [
           {
-            "id": "b9161d723d1ec55b",
+            "id": "aed612e07c9cd73b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,29 +20,18 @@
             }
           },
           {
-            "id": "e616b128d42c6564",
+            "id": "758181821cd81f8d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Formulario.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
-          },
-          {
-            "id": "dc1e18b1c9f93165",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "03_dinamica/esercizi/dinamica_esercizi.md"
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03_dinamica/esercizi/dinamica_esercizi.md",
+                "file": "03_dinamica/3.1 - Dinamica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03_dinamica/esercizi/dinamica_esercizi.md",
+                "file": "03_dinamica/3.1 - Dinamica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03_dinamica/esercizi/dinamica_esercizi.md"
+                "file": "03_dinamica/3.1 - Dinamica.md"
               }
             }
           },
@@ -188,25 +177,30 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dc1e18b1c9f93165",
+  "active": "aed612e07c9cd73b",
   "lastOpenFiles": [
-    "Formulario.md",
-    "03_dinamica/esercizi/dinamica_esercizi.md",
-    "03_dinamica/3.1 - Dinamica.md",
     "03_dinamica/3.2 - Gravitazione.md",
-    "03_dinamica/3.3 Forze.md",
+    "03_dinamica/3.3 - Forze.md",
+    "03_dinamica/src/2023_03_Dinamica_lez2.pdf",
+    "03_dinamica/3.1 - Dinamica.md",
+    "Formulario.md",
+    "03_dinamica/assets/relatività2.png",
+    "03_dinamica/assets/relatività1.png",
+    "03_dinamica/esercizi/dinamica_esercizi.md",
+    "02_cinematica/2.2-Cinematica Multidimensionale.md",
     "03_dinamica/assets/dinamica_images.md",
+    "Pasted image 20230730202215.png",
+    "03_dinamica/assets/velocità.png",
+    "03_dinamica/assets/eccentricità.png",
+    "00 - Matematica.md",
     "03_dinamica/esercizi/Untitled.md",
     "03_dinamica/esercizi",
-    "02_cinematica/2.2-Cinematica Multidimensionale.md",
     "02_cinematica/assets/cinematica_images.md",
     "03_dinamica/assets",
     "02_cinematica/2.1 - Cinematica.md",
     "01_intro/1.1 - Grandezze e Misure.md",
-    "00 - Matematica.md",
     "01_intro/1.2-Vettori.md",
     "03_dinamica/src/2023_03_Dinamica_lez1.pdf",
-    "03_dinamica/src/2023_03_Dinamica_lez2.pdf",
     "Excalidraw/Cinematica 2023-07-27 23.40.50.excalidraw.md",
     "cinematica/Cinematica.html",
     "2023-07-27.md",

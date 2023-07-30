@@ -54,7 +54,7 @@ dv.paragraph(output);
 # Definizioni
 
 ```dataviewjs
-const PATTERN = /> \[!definizione\] .*\n> *.*/g;
+const PATTERN = /> \[!definizione\] .*\n(> *.*\n)*/g;
 
 let collectedFormulas = {};
 

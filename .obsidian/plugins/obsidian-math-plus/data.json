@@ -7,7 +7,7 @@
   "colorPicker": true,
   "minHeight": "100",
   "livePreview": true,
-  "addDollars": false,
+  "addDollars": true,
   "idHidden": false,
   "formattingHidden": false,
   "lockVisable": true,

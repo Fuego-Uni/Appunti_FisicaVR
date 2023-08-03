@@ -8,26 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "aed612e07c9cd73b",
+            "id": "7a0bdbbc4596797f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "03_dinamica/3.1 - Dinamica.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "758181821cd81f8d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Formulario.md",
-                "mode": "preview",
-                "source": false
+                "file": "04_lavoro_energia/assets/lavoro_images.md"
               }
             }
           }
@@ -97,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03_dinamica/3.1 - Dinamica.md",
+                "file": "04_lavoro_energia/assets/lavoro_images.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03_dinamica/3.1 - Dinamica.md",
+                "file": "04_lavoro_energia/assets/lavoro_images.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03_dinamica/3.1 - Dinamica.md"
+                "file": "04_lavoro_energia/assets/lavoro_images.md"
               }
             }
           },
@@ -158,7 +144,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -177,49 +163,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "aed612e07c9cd73b",
+  "active": "7a0bdbbc4596797f",
   "lastOpenFiles": [
-    "03_dinamica/3.2 - Gravitazione.md",
-    "03_dinamica/3.3 - Forze.md",
-    "03_dinamica/src/2023_03_Dinamica_lez2.pdf",
-    "03_dinamica/3.1 - Dinamica.md",
+    "04_lavoro_energia/4.4 - Moto armonico.md",
+    "04_lavoro_energia/4.3 - Impulso.md",
     "Formulario.md",
+    "04_lavoro_energia/assets/lavoro_images.md",
+    "04_lavoro_energia/4.1 - Lavoro.md",
+    "03_dinamica/3.1 - Dinamica.md",
+    "04_lavoro_energia/4.2 - Energia.md",
+    "04_lavoro_energia/esercizi/lavoro_esercizi.md",
+    "04_lavoro_energia/src/2023_05_Lavoro_Energia_lez2.pdf",
+    "00 - Matematica.md",
+    "03_dinamica/esercizi/dinamica_esercizi.md",
+    "04_lavoro_energia/assets/conservazione.png",
+    "03_dinamica/3.3 - Forze.md",
+    "04_lavoro_energia/src/2023_05_Lavoro_Energia_lez1.pdf",
+    "03_dinamica/3.2 - Gravitazione.md",
+    "02_cinematica/2.1 - Cinematica.md",
+    "02_cinematica/2.2 - Cinematica Multidimensionale.md",
+    "04_lavoro_energia/src/Drawing 2023-08-02 12.07.59.excalidraw.md",
+    "04_lavoro_energia/src/2023_05_Oscillatore_Armonico.pdf",
+    "04_lavoro_energia/src",
+    "04_lavoro_energia/assets/martello.png",
+    "01_intro/1.2-Vettori.md",
+    "04_lavoro_energia/assets/forza_non_costante.png",
+    "04_lavoro_energia/esercizi/Untitled.md",
+    "Untitled.md",
+    "04_lavoro_energia/esercizi",
+    "04_lavoro_energia/assets",
+    "Pasted image 20230730202215.png",
+    "04_lavoro_energia",
+    "03_dinamica/src/2023_03_Dinamica_lez2.pdf",
     "03_dinamica/assets/relatività2.png",
     "03_dinamica/assets/relatività1.png",
-    "03_dinamica/esercizi/dinamica_esercizi.md",
-    "02_cinematica/2.2-Cinematica Multidimensionale.md",
     "03_dinamica/assets/dinamica_images.md",
-    "Pasted image 20230730202215.png",
     "03_dinamica/assets/velocità.png",
     "03_dinamica/assets/eccentricità.png",
-    "00 - Matematica.md",
     "03_dinamica/esercizi/Untitled.md",
     "03_dinamica/esercizi",
     "02_cinematica/assets/cinematica_images.md",
     "03_dinamica/assets",
-    "02_cinematica/2.1 - Cinematica.md",
     "01_intro/1.1 - Grandezze e Misure.md",
-    "01_intro/1.2-Vettori.md",
-    "03_dinamica/src/2023_03_Dinamica_lez1.pdf",
     "Excalidraw/Cinematica 2023-07-27 23.40.50.excalidraw.md",
-    "cinematica/Cinematica.html",
     "2023-07-27.md",
-    "02_cinematica/src/2023_02_Cinematica_lez2.pdf",
-    "03_dinamica/src",
-    "01_intro/src/2023_01_Intro.pdf",
-    "01_intro/src",
-    "02_cinematica/src/2023_01_Intro.pdf",
     "Excalidraw/Drawing 2023-07-27 23.28.06.excalidraw.md",
     "02_cinematica/esercizi/moto_proiettile_esercizi.md",
-    "02_cinematica/esercizi/moto_relativo_esercizi.md",
-    "02_cinematica/esercizi/cinematica_esercizi.md",
-    "Excalidraw/Drawing 2023-07-27 18.57.12.excalidraw.md",
-    "Untitled.md",
     "02_cinematica/assets/tangente_normale.png",
     "Untitled.canvas",
-    "02_cinematica/assets/moto_rettiline_vario.png",
-    "01_intro/assets/intro_images.md",
-    "2023-07-24.md",
-    "Excalidraw/Drawing 2023-07-23 18.25.31.excalidraw.md"
+    "02_cinematica/assets/moto_rettiline_vario.png"
   ]
 }

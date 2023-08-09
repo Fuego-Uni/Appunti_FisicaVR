@@ -6,4 +6,3 @@
 
 > [!formula] tan/cotan
 > $\large \dfrac{\sin a}{\cos a} = \tan a \ \ \ \dfrac{\cos a}{\sin a} = \cot a$
-

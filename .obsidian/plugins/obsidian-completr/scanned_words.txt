@@ -509,6 +509,8 @@ ffR
 fNV
 fpU
 false
+fkPW
+ffdf
 link
 la
 le
@@ -1001,6 +1003,9 @@ lgU
 lLS
 loT
 livePrevPlus
+lnhp
+lHxZFWjj
+ljiIsL
 soluzioni
 scalare
 sufficiente
@@ -1599,6 +1604,11 @@ sale
 sorpassa
 splm
 smuovere
+stabile
+simile
+seguiamo
+sbDfN
+seconde
 equazione
 essere
 exist
@@ -2136,6 +2146,8 @@ evF
 esempi
 ezTbqlhd
 enorme
+elastico
+ell
 grado
 getMarkdownFiles
 geometria
@@ -2641,6 +2653,10 @@ gqN
 gjm
 gHA
 geb
+grafico
+gQid
+generica
+gFR
 name
 non
 normale
@@ -3138,6 +3154,9 @@ nIR
 nbd
 njf
 ntl
+notiamo
+nei
+nullo
 Il
 Istantanea
 In
@@ -3611,6 +3630,7 @@ Iaq
 Insieme
 Impulso
 Intuizione
+IcJH
 moto
 modulo
 minori
@@ -4173,6 +4193,9 @@ mplT
 mhDFU
 mentre
 momentum
+massimo
+mszpt
+moBDb
 pi
 posizioni
 punto
@@ -4745,6 +4768,15 @@ pys
 problemi
 poco
 piccola
+parabola
+periodico
+precedente
+passaggio
+pulsazione
+porzione
+percorsa
+prime
+pRDgCjjJ
 rettilineo
 rotazione
 riformulo
@@ -5254,6 +5286,11 @@ raggiungere
 risolvere
 riprendendo
 richiesta
+risulta
+richiamo
+riporta
+riprende
+rxZErYpH
 descrizione
 differenza
 due
@@ -5803,6 +5840,11 @@ dpm
 div
 divide
 dEQe
+detto
+dOXv
+dfvKosjh
+dJMZc
+derivate
 Cinematica
 Componente
 Composto
@@ -6223,6 +6265,9 @@ CWtN
 ChO
 CWy
 Cik
+CjfycP
+CFPc
+CWWMXrSG
 Bidimensionale
 BnMkhS
 By
@@ -6673,6 +6718,9 @@ BUC
 BIH
 BOQHXO
 BmqEg
+Basi
+BRhT
+BciIn
 il
 in
 istantanea
@@ -7266,6 +7314,11 @@ iLv
 indica
 ilBIGJ
 impulso
+indifferente
+instabile
+idem
+impostiamo
+iLZtxWdC
 Posizione
 Pu
 PATTERN
@@ -7690,6 +7743,10 @@ PjF
 PFAF
 PeB
 Potenza
+Periodo
+Proiezione
+Pitagora
+PpUzFD
 un
 uniforme
 uniformemente
@@ -8138,6 +8195,11 @@ uctv
 uHj
 usare
 uso
+unico
+uCL
+uUJYWPEN
+uosiimYQ
+uWrircEF
 asse
 alla
 al
@@ -8674,6 +8736,12 @@ anM
 applicato
 astronavi
 asteroidi
+armonico
+analizziamo
+ampiezza
+armonic
+analogia
+axb
 cartesiano
 che
 corpo
@@ -9245,6 +9313,11 @@ circostanze
 cpa
 contenteditable
 class
+completa
+capitolo
+conservativa
+conservazione
+cMG
 Spostamento
 Sempre
 Spazio
@@ -9754,6 +9827,7 @@ SFM
 SVZZ
 Scp
 SAAGED
+Sistema
 trova
 tangente
 traiettoria
@@ -10745,6 +10819,7 @@ vZc
 vTHV
 vPXz
 vVGG
+voaSIPj
 Versore
 Velocit
 VIEW
@@ -11237,6 +11312,8 @@ Vko
 VKc
 VsVl
 Vedi
+VzK
+VxCFzXd
 La
 LGEgrnrH
 LLxfYv
@@ -11696,6 +11773,8 @@ LMjy
 LCOP
 LucidaGrande
 LvT
+LzwBUqi
+LVGNNw
 Accelerazione
 Anche
 Ae
@@ -12151,6 +12230,7 @@ AfQ
 Apr
 ABa
 Aoa
+Ampiezza
 Traiettorie
 Text
 TEgpijTu
@@ -12588,6 +12668,7 @@ TDQB
 TGXa
 TMh
 TEX
+TrzMA
 Moto
 Media
 MORE
@@ -13036,6 +13117,10 @@ MBx
 MGk
 MSLQVR
 MpwX
+MaOp
+MnM
+MqGNWrKU
+McdZjKkW
 Nota
 NwALrktY
 NNCeTGxf
@@ -13500,6 +13585,7 @@ NJN
 NMG
 NGuGU
 Nsy
+Nvi
 orizzontale
 old
 of
@@ -13962,6 +14048,12 @@ oUQ
 oHC
 okN
 oggetti
+oscillatorio
+oscillazione
+oscillatore
+oraria
+olm
+odLw
 quello
 quindi
 questo
@@ -14490,6 +14582,8 @@ qsn
 qWc
 qrfC
 quanta
+qsxsAjyn
+qOr
 Descrive
 DPb
 Drawing
@@ -14966,6 +15060,7 @@ DMo
 DzG
 DsX
 DrJ
+DIqd
 Relazioni
 Relazione
 Restituisce
@@ -15464,6 +15559,9 @@ RISe
 REA
 RWXQUK
 RpH
+RezNDInZ
+RCcY
+Rka
 Get
 Gittata
 GGpINNH
@@ -15991,6 +16089,7 @@ GIL
 GhoE
 GdJ
 Generalizzazione
+Genera
 Formulario
 FByvfZ
 FZ
@@ -16526,6 +16625,9 @@ FXA
 FxD
 FNf
 FsC
+Fmax
+Frequenza
+FDzDbFBb
 with
 wx
 wYJp
@@ -17000,6 +17102,7 @@ wyA
 wdz
 wSc
 wYcv
+wIaO
 yet
 yQ
 ylNtrJqY
@@ -17459,6 +17562,8 @@ yLw
 yDO
 ynYv
 yjD
+yQkeSs
+yFzZ
 EXCALIDRAW
 Elements
 Ev
@@ -17912,6 +18017,12 @@ EWH
 EmK
 EJDdf
 EPE
+Equilibrio
+Essendo
+Esiste
+EUlJ
+Elongazione
+EzmjNU
 OPTIONS
 OI
 OTl
@@ -18368,6 +18479,8 @@ OCA
 OYdU
 Ooy
 OqC
+Oscillatore
+OzMafD
 Hhk
 HIpMCaC
 HzzKq
@@ -19390,6 +19503,8 @@ ZTS
 ZLUN
 ZKATRJ
 ZaU
+ZDPSGzTn
+ZRxAwh
 Wx
 WGpxaFa
 Wj
@@ -19855,6 +19970,8 @@ Wmr
 WwEi
 Watt
 Witlve
+WgV
+WpMsaDse
 KRsRAoIh
 KoF
 KxwncCBa
@@ -20300,6 +20417,8 @@ Kyk
 KMc
 KPxV
 KZbpUTDv
+KRnV
+KIe
 Xr
 XeLLN
 XH
@@ -21222,6 +21341,7 @@ bCq
 bMz
 bcg
 bur
+bkEMUsFO
 km
 kppZgyBO
 kCLGJ
@@ -21693,6 +21813,8 @@ kMM
 kWx
 kol
 kAGp
+kKEad
+kutgCEoA
 QSiVQGMv
 Quanto
 Quale
@@ -22170,6 +22292,8 @@ QTr
 Qfd
 QSho
 QzEU
+Quando
+QWwmjZaE
 zO
 zOhp
 zAiy
@@ -22654,6 +22778,7 @@ zOx
 zgB
 zqdU
 zii
+zBPrucEc
 JMg
 JLqt
 JJE
@@ -23138,6 +23263,7 @@ JaZ
 Jkb
 Jei
 JSI
+JfPVxjkc
 Una
 UTCjGMef
 Un
@@ -23607,6 +23733,7 @@ UKn
 UYdY
 UNu
 UwwaracW
+Ubot
 xfSC
 xl
 xLaRqRW
@@ -24072,6 +24199,7 @@ xVUV
 xkA
 xZsZR
 xYU
+xhM
 jsMRQoaL
 joP
 jCCq
@@ -24560,6 +24688,7 @@ jwy
 jKQ
 jPO
 jcX
+jgHjV
 hBCTS
 huWxR
 ha
@@ -24987,6 +25116,8 @@ hhv
 hVZ
 hmD
 hjBu
+hIv
+hAdAuTCc
 Yam
 YcjQ
 YU
@@ -25463,6 +25594,7 @@ YOvA
 YDt
 YTCCYy
 YrC
+YrX
 ÖS
 ÖIS
 ÖNG

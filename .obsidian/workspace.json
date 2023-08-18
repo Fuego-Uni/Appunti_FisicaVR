@@ -4,15 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "5e39453d980b0def",
+        "id": "bc7fe008dd583323",
         "type": "tabs",
         "children": [
           {
-            "id": "6deff8b8cfdf40ab",
+            "id": "30aefc6ebcf97228",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "06_onde_meccaniche/6.1 - Onde meccaniche.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fb69f135948ac282",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "06_onde_meccaniche/assets/onde_images.md"
+              }
             }
           }
         ]
@@ -81,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_intro/1.1 - Grandezze e Misure.md",
+                "file": "06_onde_meccaniche/6.1 - Onde meccaniche.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_intro/1.1 - Grandezze e Misure.md",
+                "file": "06_onde_meccaniche/6.1 - Onde meccaniche.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_intro/1.1 - Grandezze e Misure.md"
+                "file": "06_onde_meccaniche/6.1 - Onde meccaniche.md"
               }
             }
           },
@@ -150,6 +164,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "flowershow:Publish with Flowershow": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -157,95 +172,56 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "webpage-html-export:Export Vault to HTML": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "floating": {
-    "id": "87724960464f9157",
-    "type": "floating",
-    "children": [
-      {
-        "id": "6bab09d4775e45eb",
-        "type": "window",
-        "children": [
-          {
-            "id": "743386c049bd0169",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "76606d6b89173e10",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "01_intro/1.1 - Grandezze e Misure.md",
-                    "mode": "preview",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 316,
-        "y": 337,
-        "width": 902,
-        "height": 302,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "76606d6b89173e10",
+  "active": "30aefc6ebcf97228",
   "lastOpenFiles": [
-    "01_intro/1.2-Vettori.md",
-    "01_intro/assets/intro_images.md",
-    "02_cinematica/2.1 - Cinematica.md",
-    "02_cinematica/2.2 - Cinematica Multidimensionale.md",
-    "02_cinematica/assets/cinematica_images.md",
-    "02_cinematica/esercizi/cinematica_esercizi.md",
-    "02_cinematica/esercizi/moto_proiettile_esercizi.md",
-    "02_cinematica/esercizi/moto_relativo_esercizi.md",
-    "03_dinamica/3.1 - Dinamica.md",
+    "06_onde_meccaniche/assets/onde_images.md",
+    "06_onde_meccaniche/6.1 - Onde meccaniche.md",
+    "06_onde_meccaniche/assets/impulsomeccanico.png",
+    "06_onde_meccaniche/assets/Untitled.md",
+    "05_moto_rotatorio/5.1 - Sistemi di punti.md",
+    "Formulario.md",
     "03_dinamica/3.2 - Gravitazione.md",
     "03_dinamica/3.3 - Forze.md",
-    "03_dinamica/assets/dinamica_images.md",
-    "03_dinamica/esercizi/dinamica_esercizi.md",
-    "04_lavoro_energia/4.1 - Lavoro.md",
-    "04_lavoro_energia/4.2 - Energia.md",
-    "04_lavoro_energia/4.3 - Impulso.md",
+    "03_dinamica/3.1 - Dinamica.md",
+    "06_onde_meccaniche/src/2023_09_Onde_meccaniche_lez2.pdf",
+    "06_onde_meccaniche/src/2023_09_Onde_meccaniche_lez1.pdf",
+    "06_onde_meccaniche/src",
+    "06_onde_meccaniche/esercizi",
+    "06_onde_meccaniche/assets",
+    "06_onde_meccaniche",
+    "05_moto_rotatorio/assets/sistemi_images.md",
+    "05_moto_rotatorio/5.6 - Deformazione.md",
+    "05_moto_rotatorio/assets/modulirottura.png",
+    "05_moto_rotatorio/assets/modulielastici2.png",
+    "05_moto_rotatorio/assets/modulielastici.png",
+    "05_moto_rotatorio/esercizi/esercizi_sistemi.md",
+    "05_moto_rotatorio/5.5 - Statica.md",
+    "05_moto_rotatorio/assets/nomenclatura.png",
+    "05_moto_rotatorio/assets/braccio_esercizio_2.png",
+    "05_moto_rotatorio/assets/braccio_esercizio.png",
     "04_lavoro_energia/4.4 - Moto armonico.md",
-    "04_lavoro_energia/assets/lavoro_images.md",
-    "04_lavoro_energia/esercizi/lavoro_esercizi.md",
-    "04_lavoro_energia/src/Drawing 2023-08-02 12.07.59.excalidraw.md",
-    "Excalidraw/Cinematica 2023-07-27 23.40.50.excalidraw.md",
-    "Excalidraw/Drawing 2023-07-27 23.28.06.excalidraw.md",
-    "Formulario.md",
-    "00 - Matematica.md",
-    "04_lavoro_energia/assets/potenziale_elastico.png",
-    "04_lavoro_energia/assets/equilibrio.png",
-    "Pasted Image 20230808210153_196.png",
-    "04_lavoro_energia/src/2023_05_Lavoro_Energia_lez2.pdf",
-    "04_lavoro_energia/assets/conservazione.png",
-    "04_lavoro_energia/src/2023_05_Lavoro_Energia_lez1.pdf",
     "04_lavoro_energia/src/2023_05_Oscillatore_Armonico.pdf",
-    "04_lavoro_energia/src",
-    "04_lavoro_energia/assets/martello.png",
-    "04_lavoro_energia/assets/forza_non_costante.png",
-    "04_lavoro_energia/esercizi/Untitled.md",
-    "Untitled.md",
-    "04_lavoro_energia/esercizi",
-    "04_lavoro_energia/assets",
-    "Pasted image 20230730202215.png",
-    "04_lavoro_energia",
-    "03_dinamica/src/2023_03_Dinamica_lez2.pdf",
-    "03_dinamica/assets/relatività2.png",
-    "03_dinamica/assets/relatività1.png",
-    "03_dinamica/assets/velocità.png",
-    "03_dinamica/esercizi",
-    "03_dinamica/assets",
+    "04_lavoro_energia/assets/lavoro_images.md",
+    "04_lavoro_energia/assets/equilibri.png",
+    "04_lavoro_energia/4.3 - Impulso.md",
+    "04_lavoro_energia/4.2 - Energia.md",
+    "04_lavoro_energia/4.1 - Lavoro.md",
+    "05_moto_rotatorio/5.3 - Corrispondenza dinamica.md",
+    "05_moto_rotatorio/5.2 - Corrispondenza cinematica.md",
+    "05_moto_rotatorio/5.4 - Corrispondenza energia e lavoro.md",
+    "05_moto_rotatorio/assets/sistema_non_isolato_momento_angolare.png",
+    "05_moto_rotatorio/assets/conservazione_momento_angolare.png",
+    "05_moto_rotatorio/src/2023_07_meccanica_sistemi_moti_rotazionali_lez2.pdf",
+    "05_moto_rotatorio/src/2023_07_meccanica_sistemi_moti_rotazionali_lez1.pdf",
+    "05_moto_rotatorio/src/2023_06_meccanica_sistemi_moti_traslazionali.pdf",
+    "01_intro/1.2 - Vettori.md",
+    "02_cinematica/2.2 - Cinematica Multidimensionale.md",
+    "Excalidraw/Cinematica 2023-07-27 23.40.50.excalidraw.md",
+    "05_dinamica_sistemi/assets/Untitled.md",
+    "02_cinematica/esercizi/moto_proiettile_esercizi.md",
     "Untitled.canvas"
   ]
 }

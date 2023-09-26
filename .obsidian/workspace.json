@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_intro/1.1 - Grandezze e Misure.md",
+                "file": "06_onde_meccaniche/6.2 - Onde meccaniche 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "forze vive",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_intro/1.1 - Grandezze e Misure.md",
+                "file": "06_onde_meccaniche/6.2 - Onde meccaniche 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_intro/1.1 - Grandezze e Misure.md",
+                "file": "06_onde_meccaniche/6.2 - Onde meccaniche 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_intro/1.1 - Grandezze e Misure.md"
+                "file": "06_onde_meccaniche/6.2 - Onde meccaniche 2.md"
               }
             }
           },
@@ -143,6 +143,16 @@
             "state": {
               "type": "mathpad-view",
               "state": {}
+            }
+          },
+          {
+            "id": "d36233b530e96abf",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
             }
           }
         ],
@@ -167,6 +177,30 @@
   },
   "active": "a5b1260079f35a15",
   "lastOpenFiles": [
+    "06_onde_meccaniche/6.1 - Onde meccaniche.md",
+    "06_onde_meccaniche/6.1 - Deformazione.md",
+    "05_moto_rotatorio/5.6 - Statica.md",
+    "05_moto_rotatorio/5.5 - Corrispondenza energia e lavoro.md",
+    "05_moto_rotatorio/5.4 - Corrispondenza dinamica.md",
+    "05_moto_rotatorio/5.3 - Corrispondenza cinematica.md",
+    "05_moto_rotatorio/5.2 - Sistemi di punti.md",
+    "05_moto_rotatorio/5.1 - Moto armonico.md",
+    "04_lavoro_energia/esercizi/lavoro_esercizi.md",
+    "04_lavoro_energia/4.3 - Impulso.md",
+    "03_dinamica/3.1 - Dinamica.md",
+    "03_dinamica/3.2 - Gravitazione.md",
+    "03_dinamica/3.3 - Forze.md",
+    "04_lavoro_energia/4.2 - Energia.md",
+    "04_lavoro_energia/4.1 - Lavoro.md",
+    "02_cinematica/2.2 - Cinematica Multidimensionale.md",
+    "02_cinematica/2.1 - Cinematica.md",
+    "Pasted Image 20230808210153_196.png",
+    "Pasted image 20230814152702.png",
+    "Pasted image 20230813171639.png",
+    "Pasted image 20230823103354.png",
+    "Pasted image 20230902105609.png",
+    "Pasted Image 20230829112512_427.png",
+    "Pasted image 20230812192040.png",
     "01_intro/1.2 - Vettori.md",
     "01_intro/1.1 - Grandezze e Misure.md",
     "09_fluidi/9.2 - Fluidodinamica.md",
@@ -174,18 +208,10 @@
     "09_fluidi/assets/turbolento.png",
     "09_fluidi/fluidi_esercizi.md",
     "09_fluidi/9.1 - Meccanica dei fluidi.md",
-    "04_lavoro_energia/4.2 - Energia.md",
     "09_fluidi/assets/portanza.png",
     "09_fluidi/assets/fluidi_images.md",
-    "09_fluidi/assets/bernoulli1.png",
-    "Pasted image 20230902105609.png",
-    "09_fluidi/assets/continuit.png",
-    "09_fluidi/assets/viscosity.png",
     "09_fluidi/src/2023_14_dinamica_dei_fluidi.pdf",
-    "09_fluidi/assets/vasicomunicanti.png",
     "09_fluidi/assets/Untitled.md",
-    "09_fluidi/assets/equilibrioforze.png",
-    "06_onde_meccaniche/6.1 - Deformazione.md",
     "09_fluidi/src/2023_14_statica_dei_fluidi.pdf",
     "09_fluidi/src",
     "09_fluidi/esercizi",
@@ -194,25 +220,9 @@
     "08_ottica/src/2023_13_Ottica_ondulatoria.pdf",
     "08_ottica/8.4 - Ottica ondulatoria.md",
     "06_onde_meccaniche/6.2 - Onde meccaniche 2.md",
-    "08_ottica/assets/cenni2.png",
-    "08_ottica/assets/ottica_images.md",
-    "08_ottica/8.1 - Ottica Geometrica.md",
-    "06_onde_meccaniche/6.1 - Onde meccaniche.md",
-    "07_acustica/7.2 - Orecchio e musica.md",
-    "07_acustica/7.1 - Acustica.md",
-    "08_ottica/8.2 - Rifrazione.md",
-    "06_onde_meccaniche/esercizi/onde_esercizi.md",
-    "08_ottica/8.3 - Strumenti Ottici.md",
-    "Formulario.md",
-    "08_ottica/ottica_esercizi.md",
     "08_ottica/Untitled",
     "08_ottica/assets",
     "08_ottica/src/2023_12_Strumenti ottici.pdf",
-    "07_acustica/esercizi/acustica_esercizi.md",
-    "07_acustica/assets/acustica_images.md",
-    "00 - Matematica.md",
-    "07_acustica/esercizi/Untitled.md",
-    "06_onde_meccaniche/assets/onde_images.md",
     "Untitled.canvas"
   ]
 }
